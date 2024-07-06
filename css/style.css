@@ -1,0 +1,53 @@
+/* ex-1 */
+.text-bg-info {
+    
+    margin-top: 10px;
+    width: 35%;
+    padding:20px;
+    border-radius: 10px;
+   
+}
+.example{
+   
+    background: antiquewhite;
+    width: 40%;
+    margin: auto;
+}
+.text-bg-success {
+    
+width: 40%;
+    
+padding: 13px;
+    
+border-radius: 10px;
+}
+.text-bg-success {
+    
+    width: 40%;
+        
+    padding: 13px;
+        
+    border-radius: 10px;
+    }
+    .example-three{
+        background: beige;
+        width: 50%;
+        margin: auto;
+    }
+    .text-bg-warning {
+       
+        width: 35%;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .example-four{
+        background: beige;
+        width: 50%;
+        margin: auto;
+    }
+    .text-bg-danger {
+       
+        width: 35%;
+        padding: 10px;
+        border-radius: 10px;
+    }
